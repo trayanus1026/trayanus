@@ -1,0 +1,33 @@
+https://www.geeksforgeeks.org/use-ejs-as-template-engine-in-node-js/ //EJS File use 
+RestApi sample Framework
+https://dev.to/joshuadeguzman/definitive-guide-developing-restful-apis-using-python-django-and-drf-2h7e
+https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/
+URL
+
+Datagridview
+https://social.msdn.microsoft.com/Forums/aspnet/en-US/e4cb6aac-af5e-47bd-acd0-572575a98540/custom-datagridview?forum=vbpowerpacks
+
+MultiThread in C#
+
+https://www.pluralsight.com/guides/how-to-write-your-first-multi-threaded-application-with-c
+http://www.learncsharptutorial.com/threading-and-types-of-threading-stepbystep.php
+
+Learn Thread
+
+http://www.learncsharptutorial.com/threading-and-types-of-threading-stepbystep.php
+
+using thread during load data from database
+https://stackoverflow.com/questions/39140469/show-loading-animation-during-loading-data-in-other-thread
+CRM
+http://html.codedthemes.com/datta-able/bootstrap/default/dashboard-crm.html
+
+http://www.arcanewonders.com/ (Wordpress, PHP, jquery, javascript, html5)
+http://www.dynamicmounting.com/ (Wordpress blog, PHP, WooCommerce 2.1.11, PHP, jquery, youtube video player, paypal, shopping cart)
+http://www.khyberbazaar.com/ (PHP5, Wordpress 4.3.1, WooCommerce, visual composer, woosocio)
+http://homeidentity.us/ (Wordpress, PHP, blog, WooCommerce)
+http://faceleague.com/ (php, CodeIgniter, jquery, HTML5)
+http://19hkd.com/ (php, CodeIgniter, jquery, HTML5)
+Django
+https://beejee.org/metatest
+https://beejee.org/profrum
+https://beejee.org

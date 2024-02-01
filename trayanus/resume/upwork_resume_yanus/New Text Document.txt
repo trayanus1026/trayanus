@@ -1,0 +1,310 @@
+Momcilo 
+
+Certified Blockchain Developer
+
+I bring 5+ years of blockchain expertise to your project.
+I’ve been helping startups, banks, and financial institutions to integrate blockchain technologies for more than 5 years.
+I am what you need if you are ready to move towards the blockchain world.
+I have developed more than 60 projects and know how to turn your project idea into reality.
+I am ready to build blockchain solutions according to your needs. From developing self-executing contracts and eWallets to creating exchange platforms and payment apps.
+Cooperating with me, you will get the full range of benefits of blockchain technology and its decentralized network.
+
+
+
+//////////////////////////////////////////////////////
+
+Stefan B
+
+Web developer | SEO | WooCommerce | 24/7 Support
+
+I'm Stefan and I'm very happy that you stopped by my profile today!
+
+SKILLS OVERVIEW:
+
+✅Web Development: Wordpress | Wix | Squarespace | CMS..
+
+✅Excel: Data Analysis | Reporting | Automation
+
+✅SEO: Content Optimization | Keyword Research | Link Building
+
+✅ WooCommerce: Custom Ecommerce Websites | Inventory management
+
+I am an expert in web development with an emphasis on innovation and successful optimization. My skills include developing custom web pages using HTML, CSS and JavaScript. I am also skilled in data analysis, report creation and automation using Excel. In the field of SEO, I am an expert in content optimization, keyword research and quality link building. As a WooCommerce expert, I build custom webshops and manage inventory.
+
+Below you can see some of my work.
+
+
+//////////////////////////////////////////////////////////
+
+Obrad 
+
+Full Stack Guru | WordPress, Drupal...
+
+Thanks for stopping by the Obrad Profile!
+I am a well-qualified Full Stack Developer familiar with wide range of programming utilities and languages.
+
+Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease.
+
+Collaborative team player with excellent technical abilities offering 8 years of related experience.
+
+- Main development experiences
+WordPress, Shopify, Laravel, Drupal, HTML, CSS, Javascript, Jquery, PHP, CodeIgniter, Opencart, Chatgpt, AWS, Python
+
+-Blockchain
+Solidity, Rust, Web3.js, Ether.js
+
+- Frontend
+React, Vue, Angular, JQuery. ES5/ES6, Vanilla JS
+
+- Backend
+Node, Express, Nuxt.js, Next.js, Nest.js framework, Laravel, Django
+
+- Database
+MySQL, PostgreSQL, NoSQL, MongoDB, Firebase
+
+- API development and integration
+
+- AI integration and ML
+
+As you can see, I am well adopt at working with all the relevant platforms, and if you’re interested in getting an idea of how I work and what I create, feel free to check out my portfolio, and reach out via Freelancer!
+
+I'm always available through message and am happy to give free consultations and proposals for all new and returning clients. So please, message me for a chat, and let’s see what I can do for you!
+
+---------------------
+
+Experience
+Senior Full-Stack DeveloperAppmodule AG
+Sep 2017 - Mar 2022 (4 years, 6 months)
+Leveraged React JS resources for all data access, encapsulating URL's and standardizing data access interfaces
+React and Functional Driven Javascript expert in SPA's, UI Components, Mobile Web and Performance optimization
+Skilled on leading frameworks as React JS to build high-quality, scalable and reusable components and Front-end
+solution
+The front-end use HTML5, CSS3, React JS, jQuery and Bootstrap to build a single page web app that communicate with
+back-end via RESTful API
+Junior Full-Stack DeveloperElementor
+Aug 2014 - Jul 2017 (2 years, 11 months)
+Developed code following common security practices and development design patterns
+Wrote 200+ unit tests to verify the functionality of user interfaces, back-end processing, connectivity, and relational
+database interactions
+Maintained 8+ systems and applications as Tier 2 support (break-fix and data changes)
+Documented 100% of technical specifications and dependencies of applications
+Participated in the planning and execution of 10+ business continuity/disaster recovery exercises
+
+----------------
+
+Education
+Bachelors' degree
+Belgrade University, Serbia
+2010 - 2014
+(4 years)
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+Branislav 
+
+Full Stack Engineer, Available for video call
+
+I have been working as a senior full stack developer for over 10 years.
+I am very strong at React, TypeScript, JavaScript, Node, Next.js, Java, PHP and have solid skills in Vue, Nuxt, C#, .NET Core, PHP, laravel, Java spring, Mysql, Postgresql, mongodb, AWS, Azure, Firebase, ChatGPT.
+I have a lot of experience in building production level software and worked in professional environment for over 8 years.
+I am an excellent team player, creative problem solver, highly organized hard worker and very responsible for my work.
+My passion is to build a world class product and contribute with my good experience and skills.
+I would appreciate the opportunity to speak with you regarding my candidacy for this role.
+Look forward to your response and thank you for your consideration.
+Sincerely,
+Branislav
+
+Please review my skill set.
+• Frontend
+Javascript, Typescript, React, Next, Vue, Nuxt, GraphQL, HTML5, CSS/SCSS
+• Backend
+Node, Express, Nest, PHP, Laravel, C#, .NET, Java, Spring, Ruby on Rails
+• Database:
+Mysql, MsSql, PostgreSQL, DynamoDB, Oracle, Mongodb, Firestore, Redis
+• Secondary Skills:
+Git, CI/CD, Docker, Jenkins, SAAS, Serverless/lambda, AWS, GCP, Azure, Firebase, Microservice, Stripe, Twilio, Zoom, Auth0, Okta
+
+/////////////////////////////////////////////////////////////////////////////////////
+Adam 
+
+Front-end Dev - React, Gatsby, JavaScript
+
+
+When working with me you can expect high-quality results, a robust code that won't fail or clutter your codebase.
+
+You will most certainly be satisfied with my work. I can also give you advice regarding your project/product and help your vision become a reality.
+
+Feel free to ask me anything, I'm sure we will get to the best possible solution for any project you have in mind.
+
+JavaScript (TypeScript, React, NodeJS) development with 4 years of JS experience and 8 years of experience in general web development.
+
+Basic DevOps services and troubleshooting - deployment, bug tracking, and pipeline setup for your front-end apps, websites, and services.
+
+In-depth experience with Gatsby static site generator.
+
+//////////////////////////////////////////////////////////////////////
+
+Vladimir 
+
+Browser extensions & Full-stack developer
+
+✔️TOP-RATED Extensions Developer on Freelancer.com, specializing in developing Chrome and Firefox Extensions and building servers and websites with various technologies.
+
+I have worked with many clients, where I helped them develop production-level extensions or ones for personal use.
+
+Types of the extensions I have developed:
+
+- privacy
+- productivity
+- screen capturing
+- economics (price comparing)
+- translation
+- UI design and many more.
+
+Nothing is paid upfront, only when the job is done.
+
+///////////////////////////////////////////////////////////////////////
+Sreten 
+Full-Stack Web & Mobile App Developer
+
+Sreten S. is a freelancer with 10+ years of experience helping a broad range of clients develop and refine their projects.
+1. Mobile App/Desktop App development
+- Native android/ios app with java, objective c/swift
+- Hybrid mobile app with react native
+- C/C++/C# by Visual Studio, Qt
+2. Website Frontend and Backend Development
+- Frameworks including Laravel, Node, Codeigniter, Flask, Django, WordPress
+- Skills including PHP, React.js, Vue.js, HTML5, Bootstrap, CSS3, jQuery, JS, MySQL, MongoDB
+3. Image processing with deep learning & classic technique
+- ALPR, OCR, People Counting, Face Landmark
+- Object Detection and Tracking with YOLO
+- Image Classification
+
+///////////////////////////////////////////////////////////////////////
+
+Bogdan 
+
+Senior Full Stack Engineer
+
+Bogdan is a versatile and talented developer with more than 9 years as a web application developer.
+Throughout his career, he's created a lot of successful web applications for global clients as a freelancer.
+He has worked mostly with Javascript, Typescript, React.js, Angular, Vue.js, Next.js, Laravel, Django, ASP.NET and so on.
+As He has experience leaded the 5 members team, he is a good leader with good leadership, team spirt and partnership.
+He also is a lover of difficult problems solving and challenges.
+He has good communication skills because he has serviced for global clients.
+He is very familiar with PHP but He have enjoyend working with modern Javascript/Typescript framework such as React, Angular, Vue for frontend and NodeJs, ExpressJs, NestJs for the backend.
+He also is very interested in mobile app development with Android, Swift, Flutter, Ionic and so on.
+He is very familiar with Agile and Waterfall software developement.
+He is an expert in version control system such as git, github and so on.
+He prefers well-documented, well-architectured, well-designed projects based on clean code.
+
+Tech Stacks:
+✔️ HTML, jQuery, Bootstrap, CSS, Sass, Tailwind CSS
+✔️ PHP/Laravel/WordPress/CI/Yii/Woocommerce/Slim PHP/Symfony
+✔️ React, Next.js, Angular, Vue.js
+✔️ NodeJs, ExpressJs
+✔️ Python/Django
+✔️ Java, Spring Boot
+✔️ C#, ASP.NET
+✔️ Shopify
+✔️ Android, Swift, Ionic, React Native, Flutter
+✔️ MySQL, Sqlite, PostgreSQL, Mongo DB
+
+From his expertise experience, He will provide the perfect solutions and creative ideas.
+------------------
+Experience
+Full Stack DeveloperQUALYSOFT
+Jan 2021 - Apr 2022 (1 year, 3 months)
+- Implemented a service for the governmental organization for statistical analysis in Vue.js.
+- Constructed a table with various ¦lters and dynamic data that allows users to enter and edit data with complex validation
+algorithms and send it to managers for examination using Bootstrap.
+- Developed and maintained a web application in React with authorization, localization, and UI themes, and integrated it
+with Grafana graphs and charts.
+Full Stack DeveloperCODETRIBE
+Oct 2018 - Dec 2020 (2 years, 2 months)
+- Took part in making database system design decisions, and implemented them using PostgreSQL and Django.
+- Improved the management of the Civil Engineering process by developing a Gantt Chart using React and KonvaJS.
+- Illustrated graphs and charts from the data received through REST API using ECharts
+Education
+Bachelor's degree of Computer Science
+Belgrade University, Serbia
+2014 - 2018
+(4 years)
+
+/////////////////////////////////////////////////////////
+
+Dusan 
+Web Scraping Expert | Java Developer
+
+WELCOME TO MY PROFILE PAGE
+
+My name is Dusan and I have over 10 years of experience in scraping and data extraction fields. My career started with writing bots for ooyyo.com but since then have developed various scrapers for over 10000 websites.
+
+I can get you almost anything from the web and then store it in format you like (TXT, Excel, JOSN, XML, Mysql Database). I have several servers for scraping tasks and many proxies that I can use to get data even from most difficult to scrape websites.
+
+My skills are:
+
+--> Web Scraping, Data extraction
+--> Web Automation
+--> Data Mining
+--> Java, Javascript and Node.js programming
+--> Selenium Webdriver
+--> PhantomJS Headless Webkit / Chromedriver
+--> HTML/CSS
+--> Big Data
+--> Excel / CSV / XML / JSON
+--> MySQL
+------------------------
+Experience
+FreelancerMy Company
+Oct 2012 - Present
+I am now developing games for Facebook in Node.js and Grails
+Software developerOoyyo.com
+Nov 2008 - Oct 2012 (3 years, 11 months)
+Ooyyo.com is used cars search engine. I worked in data mining and data extraction but also made few admin applications for controlling and monitoring of crawl process. We collected data from over 1000 sites.
+Education
+Master
+Serbia
+2005 - 2010
+(5 years)
+
+
+///////////////////////////////////////////////////////
+Marko 
+Full-stack web developer
+
+
+-- Full-stack web developer, building custom websites & web apps
+-- SQL database design & development, ERD modeling, UML diagrams
+-- HTML, CSS, Javascript, ReactJS, NodeJS, PostgreSQL, REST, GraphQL, UML
+-- Bachelored with Honors in Electrical and Computing Engineering.
+---------------------------------------
+Experience
+Full-stack web developerSelf employed
+Apr 2018 - Present
+I am working as full-stack web developer
+
+////////////////////////////////////
+Todor 
+Full stack web developer.
+
+My name is Todor Majstorovic. I'm a 23 years old graduate of Electrical Engineering, Computer Science, currently working on my master degree, from Serbia. Fullstack NodeJS/React/NextJS/React Native developer with over 5 years of experience in software development. Besides previously mentioned stack, i have worked with Symfony and Angular. I also have experience with DevOps settings, mainly in using Docker and Kubernetes, and also have experience with server configuration on all cloud providers such as AWS,Google Cloud, Azure, Digital Ocean , that way i can provide complete set of project needs from architecture to development to deployment. Ping me up for any project that uses those technologies, and i will be glad to help.
+
+
+////////////////////////////////////////////
+Milan 
+Blockchain Developer
+
+I am Milan, Blockchain Developer from Serbia.
+
+My skills:
+- EVM development
+- Dex/DeFi development
+- Trading Bot development
+- Wallet App development
+
+Experience:
+- Uniswap, Pancake, Sushi
+- Olympus, Tomb, Titano, Safuu, Univ, Ring, Node, Baked Beans, Fantasm
+- CTNC https://cryptotigernode.club
+
+///////////////////////////////////////////////////

@@ -1,0 +1,59 @@
+Borjan Bojanić
+
+Senior Full-Stack Developer
+
+Street:  Svätoplukova 51
+
+City:   Pezinok
+
+State/province/area:    Pezinok
+
+Phone number  033/640 45 97
+
+Zip code  90201
+
+Country calling code  +421
+
+Country  Slovakia
+
+-----------------------------------------------
+
+
+As a full-stack developer with 15+ years, my strength are mostly both front end and back end developments with Javascript/Typescript, PHP, C#, ASP.NET Core/Web API and Django frameworks along with relational / non-relational databases.
+
+Major Skills :
+• ES6, Typescript, C#, PHP, Java
+• React, Next.js, React-Redux, Hook-Context, React-Material, Redux-saga, Redux-thunk
+• Mobile development using react native, expo, android
+• ASP.NET 5, ASP.NET Core, MVC, Web API
+• Node.js, Express, Nest, [login to view URL]
+• Angular 2+, Angular Material
+• Vue, Vuex, Nuxt.js
+• Django, DRF
+• Java, Spring boot
+• PHP, Codeignitor, Laravel, WordPress, Shopify
+• HTML5, Bootstrap4/5, CSS3, TailwindCSS, SASS, JavaScript, JQuery
+• MySql, MSSql, Postresql, MongoDB, Graphql
+• Google API, Google Firebase, AWS Severless, Heroku, Git CI/CD Pipeline
+
+I can always complete your proposal perfectly and keep good communication with you. I am happy to work for your success with you.
+Thank you!
+
+--------------------------------------------------------
+
+Experience
+
+Software engineerNCR Belgrade company
+Feb 2014 - Feb 2018 (4 years)
+Worked on projects involving:
+- PHP, CSS, HTML, JS, Jquery and Ajax.
+- Database: MySQL, MongoDB, sqlite
+- Framework - Working knowledge of React, Angular, Vue, Node and Asp.net Core.
+
+-----------------------------------------------------------------------
+Education
+
+Nikola Tesla Belgrade university of computer science - Master Degree
+Belgrade University, Serbia
+2005 - 2010
+(5 years)

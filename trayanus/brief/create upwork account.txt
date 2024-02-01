@@ -1,0 +1,46 @@
+professional role : Java Spring Boot Expert
+
+work experience :
+	1	title: Junior Java Developer
+		company : handmade
+		location : serbia
+		startdate : 2016.7
+		enddate: 2019.5
+		description: 
+		• Utilized version control system such as Git for tracking changes in source code.
+		• Debugged existing codebase and resolved technical issues related to the application.
+		• Maintained database systems such as MySQL or MongoDB for storing data securely.
+		• Deployed applications on cloud platforms such as AWS EC2 or Heroku.
+		• Participated in daily scrum meetings to discuss progress of tasks assigned.
+		• Implemented RESTful services for data exchange between client and server side applications.
+		• Created unit tests for validating functionality of the developed features.
+		• Followed Agile methodology for developing scalable software solutions.
+		• Designed user interfaces using HTML5, CSS3, JavaScript and jQuery libraries.
+		• Built reusable components that can be used across multiple projects.
+
+	2	title: Senior Java Developer
+		company: Capcade
+		location: serbia
+		startdate: 2019.7
+		enddate: 2023.4
+		description:
+		• Participated in team meetings providing feedback on project status updates and technical solutions.
+		• Created database schemas that represent and support business processes.
+		• Optimized application performance by tuning SQL queries and caching strategies.
+		• Deployed applications into various environments like Development, QA, Staging and Production servers using tools like Jenkins or Maven scripts.
+		• Migrated legacy applications from older technologies to new technologies with minimal impact on end users.
+		• Conducted research on emerging software products and technologies.
+		• Actively participated in Agile Scrum meetings for sprint planning and retrospectives.
+		• Implemented automated unit testing frameworks such as JUnit and Mockito.
+		• Developed enterprise applications using Java and J2EE, Spring, Hibernate, and Web Services.
+
+education : Kragujevac(university) 
+			degree : Bachelor of Computer Science (BCompSc)
+			field of study : Computer science
+			 2012.4 - 2016.10
+			 
+skills : Java, Spring boot, Hibernate, Angular, C#, php, MySql, Mongo, MERN Stack, solidity,blockchain, ethereum
+
+bio : 
+		Diligent professional experienced with advanced technology, benchmarking, and capacity planning. Aiming to leverage my abilities to successfully fill the vacancy on your team. Frequently praised for communication by my peers, I can be relied upon to help your team achieve its goals. Motivated professional offers expertise in HTML5, CSS3, JavaScript, and jQuery. Adept at troubleshooting and resolving complex technical issues, while consistently meeting deadlines and client expectations. Proven ability to quickly learn and apply new technologies and techniques to enhance user experience and enable website optimization.
+

@@ -1,0 +1,73 @@
+Miomir Moldovan
+
+Street:  A. Bernoláka 9
+
+City:   Lučenec
+
+State/province/area:    Lučenec
+
+Phone number  0904 276 361/047/433 42 19
+
+Zip code  98401
+
+Country calling code  +421
+
+Country  Slovakia
+
+---------------------------------------------------------
+
+Thanks for looking at my profile!
+
+I am a full stack developer specialized in Microsoft technologies such as C#, .NET, NET CORE, PowerApp, Sharepoint, Power Automate as well as Javascript based technologies like React, Angular and Vue.
+I have worked in US and European based startups, with experience in taking apps from pre-release to production.
+I am always enthusiastic about writing clean, efficient and high quality code.
+10+ years of experience allows me to work at least twice faster than an average developer, with twice less number of bugs. You don’t just pay, you also save your money.
+
+- Front-end web
+• Typescript
+• Blazor
+• Javascript, Css, Html, Bootstrap 3+, Css3, Jquery
+• ES5+
+• Angular2+, Angular Material, Ngrx, Rxjs,
+• React, React Material, React-redux, hook, Next.js, Gatsby
+• Vue, Vuetify, Vuex, Quasar
+• Graphql/Apollo
+• Microsoft Powerapps & Powerautomates
+
+- Back end web
+• C#, Asp .Net Core, Asp .Net MVC
+• Node.js, Express, Adonis, Nest.js
+• Java, Spring, Spring boot, Spring MVC
+• Ruby on Rails
+• Php/Laravel/Symfony/CodeIgniter/Yii
+• Mysql, Postresql, MongoDB
+
+- Others
+• Powerapp, Power automate
+
+--------------------------------------------------------
+Certifications
+
+Preferred Freelancer Program SLA 1
+
+--------------------------------
+
+Experience
+Senior Full Stack developerRobert Bosch
+Oct 2017 - Feb 2020 (2 years, 4 months)
+I've worked on Javascript/Typescript based full stack projects. Learnt all of Javascript/Typescript frameworks/libraries such as React, Angular, Vue and Svelte as well as backend framework Express, Adonis and Nest
+Mid & Senior backend developZilker Technology
+Apr 2013 - Jul 2017 (4 years, 3 months)
+I've mostly focused on backend side like Java/Java Spring, ASP .NET and Php/CodeIgniter/Laravel
+Junior Front end developerAdeva
+Mar 2009 - Jun 2012 (3 years, 3 months)
+I've worked as an intern at this company and promoted to a junior developer position.
+Mostly worked on html, css and web design staff.
+
+
+-----------------------------------------------------------------------------------
+Education
+Master's degree
+Belgrade University, Serbia
+2004 - 2009
+(5 years)

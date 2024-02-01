@@ -1,0 +1,32 @@
+kimsinhyok : 122.115, 656-6308
+jongchol : 
+
+github_setting:    netsh interface ipv4 set subinterface "Ethernet" mtu=1350 store=persistent
+
+gmail : hideki ishida / trayanus1026@gmail.com / kshksh5549639
+
+https://portfolio-forest410.vercel.app/
+
+WatchGuard Technologies
+ Cybersecurity
+Location: Seattle, WA
+Since 1996, WatchGuard has been creating products that are designed to protect computer networks from outside threats, such as malware and ransomware. The company is headquartered in Seattle, Washington, with offices throughout North America, Europe, Asia Pacific, and Latin America. A specialist in network security, its mission is to make enterprise-grade security accessible to companies of all types and sizes through simplicity. This vision makes WatchGuard an ideal solution for midmarket businesses and distributed enterprises. Today, its award-winning products and services are trusted around the world by more than 17,000 security resellers and service providers to protect more than 250,000 customers.
+After going public in 1999, the company was acquired for $151 million in 2006. Since then, it has continued to expand its reach in the global cybersecurity landscape by driving growth through innovation and also through various acquisitions. Among these, from 2016-2018, WatchGuard acquired threat-detection and response provider HawkEye G, multi-factor authentication provider Datablink, and domain name system service provider Percipient Networks. In July 2022, WatchGuard made headlines after announcing that Vector Capital closed a deal to become the majority owner, having acquired interest previously owned by other investors.
+
+
+react ///    https://levelup.gitconnected.com/how-to-setup-a-react-spa-with-typescript-redux-and-material-ui-99a1e1ec7d54
+
+https://eloerp.net
+		cms:WordPress
+		Programming languages:php
+		database:MySQL
+
+		about: EloERP Cloud is an online ERP & Point of Sale solution with powerful inventory management System and advance Financial Accounting features. Its a first complete cloud based ERP Software with touch screen POS.
+
+https://inventoryflo.com/
+		cms:WordPress
+		Programming lang:php
+		database:MySQL
+		analytics:Google Analytics
+		
+		about:AI-Powered Inventory Management & All in One Point of Sale Software.

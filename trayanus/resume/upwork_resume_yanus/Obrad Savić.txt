@@ -1,0 +1,59 @@
+Obrad Savić
+
+Street:  Komenského 487/13
+
+City:   Námestovo
+
+State/province/area:    Námestovo
+
+Phone number  973/558 20 97
+
+Zip code  02901
+
+Country calling code  +421
+
+Country  Slovakia
+
+
+Software developer | Devops | Blockchain developer
+
+Finished Microsoft's certified Faculty RAF in Belgrade.
+Active development on Freelancer platform since 2013.
+
+I am offering custom solution for Your needs:
+Creating any custom API, various backend services and various gateways are possible.
+On any work I do offer guarantee and maintenance on your systems.
+
+----------------------------------------
+Certifications
+Preferred Freelancer Program SLA 1
+
+-------------------------------------------
+
+Experience
+Founder and lead developerMinova Web Development and research
+Mar 2008 - Present
+Various Web related projects, more than 10 websites for various clients
+Developer and QA engineerEmisia Consulting
+Dec 2005 - Dec 2009 (4 years)
+Working on various outsourcing projects for translation industry, mainly for Transperfect and few other related companies. Worked on flagship web and desktop apps for CAT (computer aided translation). Worked in product development, build tools, new features, design and also influenced few other project aspects.
+
+-----------------------------------
+Education
+Bachelor
+Serbia
+2002 - 2007
+(5 years)
+
+-----------------------------------
+Qualifications
+C# Developer first level certificate
+CET Belgrade (issued by Microsoft Inc)
+2004
+Went on level one curses for C# development and got Certificate of achievement for completing the course
+
+-----------------------------------
+Publications
+Types of Data Storage Structures
+SFS
+Written a short text on relational and dimensional database

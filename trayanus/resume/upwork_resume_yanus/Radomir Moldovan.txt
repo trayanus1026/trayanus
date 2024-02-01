@@ -1,0 +1,47 @@
+Radomir Moldovan
+
+Street:  Turkovej 1727/5
+
+City:   Trenčín
+
+State/province/area:    Trenčín
+
+Phone number  0905 913 291
+
+Zip code  91101
+
+Country calling code  +421
+
+Country  Slovakia
+
+-----------------------------------------------------------------
+
+React, Angular, Vue, Node, Laravel and NET Expert
+
+
+It's an honor to be able to work with you.
+Since I've worked for several IT companies and clients, I have gained experience in both the frontend and backend, and I am ready to meet your needs.
+As a full-time freelancer, I can meet deadlines, maintain quality, and work at your convenience.
+
+** Javascript, Typescript, PHP. C# **
+- FrontEnd development
+• React, Redux, Redux-saga, NextJS, GatsBy
+• Angular(~v15), AngularJS, Angular Material
+• Vue, Vuetify, Vue3, Nuxt
+• Material UI, React Bootstrap, CustomHook
+• Apollo GraphQL/GraphQL
+- BackEnd development
+• Node, Nest, Express, TypeORM, Flask
+• Laravel, ASP.NET ~6.0, Yii
+• C#, ASP.NET
+• DB - MongoDB, PostgreSQL, MySQL, Supebase, Firebase
+• CI/CD - Jenkins, AWS(EC2 Instance, S3 Bucket, DynamoDB, Seller API, SES), Google Cloud Services
+• Micro Services, Mono-repo
+• Stripe, Paypal, Razorpay, Help2Pay Integration
+• Docker, Quickbook, pipeDriver,
+• Jira, Notion, ClickUp
+- Additional Education During Employement
+• total of 30+ unique courses delivered
+-----------------------------------------------------
+
+certification   ----------php1, Preferred Freelancer Program SLA 1, css1
