@@ -1,0 +1,113 @@
+01:09:24:019 2023.07.11 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Pro : Professional : 6.3 : 19044
+
+01:09:24:029 Loading SECOH-QAD...
+01:09:27:354 Using host Forward: 10.118.35.159:1688
+01:09:27:354 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+01:09:27:354 Using host Local: 127.2.136.110:1688
+01:09:27:354 Using method: SECOH-QAD
+01:09:27:377 Time Start: 7/11/2023 1:09:23 AM
+01:09:27:378 Checking Internet Connection...
+01:09:27:483 Internet Connection Detected
+01:09:27:484 Synchronizing Time...
+01:09:27:603 Windows Detected: Windows 10 Pro : Professional : 6.3 : 19044
+01:09:27:604 Using host Forward: 10.118.35.159:1688
+01:09:27:604 Using host Local: 127.2.136.110:1688
+01:09:27:604 Using method: SECOH-QAD
+01:09:27:622 Port: 1688 is used, changing...
+01:09:28:122 Opening Firewall Port...
+01:09:28:170 Opening Firewall App...
+01:09:28:199 KMSEmulator Port: 1689
+01:09:28:200 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+01:09:28:204 KMSEmulator running port: 1689
+01:09:28:876 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+01:09:28:876 Office 2010 Skipped
+01:09:28:876 Office 2013 Skipped
+01:09:55:442 Found Office 2016 Products: 1
+01:09:55:443 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259199
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+01:09:55:599 Found Windows Products: 1
+01:09:55:600 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259199
+LicenseStatus: 1
+PartialProductKey: T83GX
+GenuineStatus: 0
+
+01:09:55:956 DisableKeyManagementServiceHostCaching 0
+01:09:55:957 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+01:09:55:957 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+01:09:56:034 DisableKeyManagementServiceHostCaching 0
+01:09:56:036 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+01:09:56:037 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+01:09:56:037 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+01:09:56:038 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+01:09:56:038 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+01:09:56:038 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+01:09:56:039 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+01:09:56:039 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+01:10:48:149 Activating Windows
+01:10:48:150 Activating Office 2016
+01:10:48:698 SetKeyManagementServiceMachine: 0: 10.118.35.159
+01:10:48:697 SetKeyManagementServiceMachine: 0: 10.118.35.159
+01:10:48:707 SetKeyManagementServicePort: 0: 1689
+01:10:48:705 SetKeyManagementServicePort: 0: 1689
+01:11:10:369 Error:  Activate C004F074 Office 16, Office16ProPlusVL_KMS_Client edition
+01:11:10:838 Testing Server: 10.118.35.159:1689...
+01:11:10:840 Checking Port: 10.118.35.159:1689...
+01:11:11:144 Using host Forward: 10.118.35.159:1689
+01:11:11:144 Using host Local: 127.161.78.220:1688
+01:11:11:144 Using method: SECOH-QAD
+01:11:11:708 Activating Office 2016
+01:11:12:103 Office 16, Office16ProPlusVL_KMS_Client edition was already Activated
+01:11:12:104 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:DiscoveredKeyManagementServiceIpAddress
+01:11:31:695 Error:  Activate C004F074 Windows(R), Professional edition
+01:11:31:697 ClearKeyManagementServiceMachine 0
+01:11:31:702 ClearKeyManagementServicePort 0
+01:11:31:702 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+01:11:31:702 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+01:11:31:702 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+01:11:31:703 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+01:11:31:703 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+01:11:31:703 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+01:11:31:703 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+01:11:31:703 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+01:11:31:703 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:DiscoveredKeyManagementServiceIpAddress
+01:11:31:757 ClearKeyManagementServiceMachine 0
+01:11:31:762 ClearKeyManagementServicePort 0
+01:11:31:869 Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.118.35.159:1689 Execute
+01:11:31:899 Error Checking host: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.118.35.159:1689 ᜀ
+01:11:31:899 Error: Port is Closed: 10.118.35.159:1689
+01:11:32:436 Checking Port: 10.118.35.159:1689...
+01:11:53:218 Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.118.35.159:1689 Execute
+01:11:53:222 Loading SECOH-QAD...
+01:11:53:500 Error Checking host: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.118.35.159:1689 ᜀ
+01:11:53:501 Error: Port is Closed: 10.118.35.159:1689
+01:11:53:627 Checking Port: 10.118.35.159:1689...
+01:11:56:497 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+01:11:56:497 Using host Forward: 10.118.35.159:1689
+01:11:56:497 Using host Local: 127.161.78.220:1688
+01:11:56:497 Using method: SECOH-QAD
+01:11:57:066 Activating Windows
+01:11:57:624 Windows(R), Professional edition was already Activated
+01:11:57:624 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\2de67392-b7a7-462a-b1ca-108dd189f588:DiscoveredKeyManagementServiceIpAddress
+01:11:57:933 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+01:11:57:933 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+01:11:57:939 ClearKeyManagementServiceMachine 0
+01:11:57:944 ClearKeyManagementServicePort 0
+01:11:57:947 Closing Firewall Port...
+01:11:58:019 Closing Firewall App...
+01:11:58:066 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+01:12:00:525 Unloading SECOH-QAD...
+01:12:00:526 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+01:12:00:526 Client listener shut down
+01:12:00:530 Time Finish: 7/11/2023 1:12:00 AM
+01:12:00:530 Total Time: 156 seconds
